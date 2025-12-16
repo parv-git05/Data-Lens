@@ -1,0 +1,27 @@
+DataLens/
+├── main.py
+├── requirements.txt
+├── README.md
+│
+├── ui/
+│   ├── __init__.py
+│   ├── main_window.py
+│   ├── scrape_panel.py
+│   ├── notes_dialog.py
+│   └── bookmarks_manager.py
+│
+├── scraper/
+│   ├── __init__.py
+│   ├── html_scraper.py
+│   └── api_hunter.py
+│
+├── utils/
+│   ├── __init__.py
+│   ├── icons.py
+│   └── recipe_manager.py
+│
+├── assets/
+│   (home.html will be auto-generated)
+│
+└── data/
+    (created automatically)

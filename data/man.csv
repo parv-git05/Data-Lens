@@ -1,0 +1,122 @@
+type,index,text,url,title
+link,16,Create account,/w/index.php?title=Special:CreateAccount&returnto=Man,"You are encouraged to create an account and log in; however, it is not mandatory"
+link,17,Log in,/w/index.php?title=Special:UserLogin&returnto=Man,"You're encouraged to log in; however, it's not mandatory. [alt-o]"
+link,19,Create account,/w/index.php?title=Special:CreateAccount&returnto=Man,"You are encouraged to create an account and log in; however, it is not mandatory"
+link,20,Log in,/w/index.php?title=Special:UserLogin&returnto=Man,"You're encouraged to log in; however, it's not mandatory. [alt-o]"
+link,49,Afrikaans,https://af.wikipedia.org/wiki/Man,Man – Afrikaans
+link,50,Alemannisch,https://als.wikipedia.org/wiki/Mann,Mann – Alemannic
+link,56,Armãneashti,https://roa-rup.wikipedia.org/wiki/B%C3%A2rbatu,Bârbatu – Aromanian
+link,87,Dansk,https://da.wikipedia.org/wiki/Mand,Mand – Danish
+link,89,Deutsch,https://de.wikipedia.org/wiki/Mann,Mann – German
+link,100,Frysk,https://fy.wikipedia.org/wiki/Man_(sekse),Man (sekse) – Western Frisian
+link,118,Interlingue,https://ie.wikipedia.org/wiki/Mann,Mann – Interlingue
+link,139,Lëtzebuergesch,https://lb.wikipedia.org/wiki/Mann,Mann – Luxembourgish
+link,142,Limburgs,https://li.wikipedia.org/wiki/Manskaerel,Manskaerel – Limburgish
+link,162,Nederlands,https://nl.wikipedia.org/wiki/Man_(geslacht),Man (geslacht) – Dutch
+link,163,Nedersaksies,https://nds-nl.wikipedia.org/wiki/Man_(geslacht),Man (geslacht) – Low Saxon
+link,167,Norsk bokmål,https://no.wikipedia.org/wiki/Mann,Mann – Norwegian Bokmål
+link,168,Norsk nynorsk,https://nn.wikipedia.org/wiki/Mann,Mann – Norwegian Nynorsk
+link,169,Nouormand,https://nrm.wikipedia.org/wiki/Houme,Houme – Norman
+link,176,Patois,https://jam.wikipedia.org/wiki/Man,Man – Jamaican Creole English
+link,179,Plattdüütsch,https://nds.wikipedia.org/wiki/Mann,Mann – Low German
+link,183,Ripoarisch,https://ksh.wikipedia.org/wiki/Mann,Mann – Colognian
+link,184,Română,https://ro.wikipedia.org/wiki/B%C4%83rbat,Bărbat – Romanian
+link,192,Scots,https://sco.wikipedia.org/wiki/Man,Man – Scots
+link,196,Simple English,https://simple.wikipedia.org/wiki/Man,Man – Simple English
+link,206,Svenska,https://sv.wikipedia.org/wiki/Man,Man – Swedish
+link,236,Batak Mandailing,https://btm.wikipedia.org/wiki/Alaklai,Alaklai – Batak Mandailing
+link,242,Article,/wiki/Man,View the content page [alt-c]
+link,243,Talk,/wiki/Talk:Man,Discuss improvements to the content page [alt-t]
+link,244,Read,/wiki/Man,
+link,245,View source,/w/index.php?title=Man&action=edit,"This page is protected.
+You can view its source [alt-e]"
+link,246,View history,/w/index.php?title=Man&action=history,Past revisions of this page [alt-h]
+link,247,Read,/wiki/Man,
+link,248,View source,/w/index.php?title=Man&action=edit,
+link,249,View history,/w/index.php?title=Man&action=history,
+link,250,What links here,/wiki/Special:WhatLinksHere/Man,List of all English Wikipedia pages containing links to this page [alt-j]
+link,251,Related changes,/wiki/Special:RecentChangesLinked/Man,Recent changes in pages linked from this page [alt-k]
+link,253,Permanent link,https://en.wikipedia.org/w/index.php?title=Man&oldid=1326000710,Permanent link to this revision of this page
+link,254,Page information,/w/index.php?title=Man&action=info,More information about this page
+link,255,Cite this page,/w/index.php?title=Special:CiteThisPage&page=Man&id=1326000710&wpFormIdentifier=titleform,Information on how to cite this page
+link,256,Get shortened URL,/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMan,
+link,257,Download QR code,/w/index.php?title=Special:QrCode&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMan,
+link,260,Download as PDF,/w/index.php?title=Special:DownloadAsPdf&page=Man&action=show-download-screen,Download this page as a PDF file
+link,261,Printable version,/w/index.php?title=Man&printable=yes,Printable version of this page [alt-p]
+link,262,Wikimedia Commons,https://commons.wikimedia.org/wiki/Man,
+link,263,Wikiquote,https://en.wikiquote.org/wiki/Man,
+link,266,Man (disambiguation),/wiki/Man_(disambiguation),Man (disambiguation)
+link,268,Manhood (disambiguation),/wiki/Manhood_(disambiguation),Manhood (disambiguation)
+link,269,,/wiki/File:Outdoors-man-portrait_(cropped).jpg,
+link,274,Sex differences in humans,/wiki/Sex_differences_in_humans,Sex differences in humans
+link,275,,/wiki/File:Human.svg,
+link,276,Sexual differentiation,/wiki/Sexual_differentiation_in_humans,Sexual differentiation in humans
+link,279,Physiology,/wiki/Sex_differences_in_human_physiology,Sex differences in human physiology
+link,280,Dimorphism,/wiki/Sexual_dimorphism#Humans,Sexual dimorphism
+link,328,adult,/wiki/Adult,Adult
+link,330,human,/wiki/Human,Human
+link,352,penis,/wiki/Human_penis,Human penis
+link,357,human history,/wiki/Human_history,Human history
+link,363,Trans men,/wiki/Trans_man,Trans man
+link,367,Man (word),/wiki/Man_(word),Man (word)
+link,373,gentleman,/wiki/Gentleman,Gentleman
+link,381,mann,https://en.wiktionary.org/wiki/mann#Old_English,wikt:mann
+link,383,woman,/wiki/Woman,Woman
+link,391,Sex differences in humans,/wiki/Sex_differences_in_humans,Sex differences in humans
+link,392,,/wiki/File:NHGRI_human_male_karyotype.png,
+link,395,XY combination,/wiki/Sex_determination_and_differentiation_(human),Sex determination and differentiation (human)
+link,403,penis,/wiki/Human_penis,Human penis
+link,407,,"/wiki/File:Anterior_view_of_human_female_and_male,_with_labels_2.png",
+link,410,humans,/wiki/Human,Human
+link,429,human male reproductive system,/wiki/Human_male_reproductive_system,Human male reproductive system
+link,436,penis,/wiki/Human_penis,Human penis
+link,444,fertilize,/wiki/Human_fertilisation,Human fertilisation
+link,464,management,/wiki/Management_of_domestic_violence,Management of domestic violence
+link,510,Human male sexuality,/wiki/Human_male_sexuality,Human male sexuality
+link,523,Trans man,/wiki/Trans_man,Trans man
+link,525,woman,/wiki/Woman,Woman
+link,552,Sex differences in humans,/wiki/Sex_differences_in_humans,Sex differences in humans
+link,553,Human male sexuality,/wiki/Human_male_sexuality,Human male sexuality
+link,644,race,/wiki/Race_(classification_of_human_beings),Race (classification of human beings)
+link,732,manosphere,/wiki/Manosphere,Manosphere
+link,740,Roman god,/wiki/Roman_mythology,Roman mythology
+link,760,"""Meaning of ""man"" in English""",https://dictionary.cambridge.org/dictionary/english/man,
+link,762,Archived,https://web.archive.org/web/20230106000222/https://dictionary.cambridge.org/dictionary/english/man,
+link,764,"""Definition of ""man""""",https://www.merriam-webster.com/dictionary/man,
+link,766,Archived,https://web.archive.org/web/20230309135059/https://www.merriam-webster.com/dictionary/man,
+link,768,man-1,http://www.bartleby.com/61/roots/IE295.html,
+link,777,55817181,https://api.semanticscholar.org/CorpusID:55817181,
+link,779,"""Etymology, origin and meaning of man""",https://www.etymonline.com/word/man,
+link,780,Archived,https://web.archive.org/web/20200814201349/https://www.etymonline.com/word/man,
+link,871,"""The science behind 'man flu.'""",https://web.archive.org/web/20171208203826/http://press.psprings.co.uk/bmj/december/manflu.pdf,
+link,877,3381640,https://api.semanticscholar.org/CorpusID:3381640,
+link,878,the original,http://press.psprings.co.uk/bmj/december/manflu.pdf,
+link,906,Life-Span Human Development,https://books.google.com/books?id=M2M1DgAAQBAJ&pg=PA385,
+link,939,135439779,https://api.semanticscholar.org/CorpusID:135439779,
+link,977,"Men and Masculinities: A Social, Cultural, and Historical Encyclopedia, Volume 1",https://books.google.com/books?id=jWj5OBvTh1IC&q=%22meanings+of+manhood+vary%22,
+link,980,Archived,https://web.archive.org/web/20230119212151/https://books.google.com/books?id=jWj5OBvTh1IC&q=%22meanings+of+manhood+vary%22,
+link,983,"""Learning to Stand Alone: The Contemporary American Transition to Adulthood in Cultural and Historical Context""",https://www.karger.com/Article/Abstract/22591,
+link,989,143862036,https://api.semanticscholar.org/CorpusID:143862036,
+link,992,Manhood in the Making: Cultural Concepts of Masculinity,https://archive.org/details/manhoodinmaking00davi,
+link,993,48,https://archive.org/details/manhoodinmaking00davi/page/48,
+link,1015,Sapiens: A Brief History of Humankind,/wiki/Sapiens:_A_Brief_History_of_Humankind,Sapiens: A Brief History of Humankind
+link,1054,145053662,https://api.semanticscholar.org/CorpusID:145053662,
+link,1057,"""Why Men Work So Many Hours""",https://hbr.org/2013/05/why-men-work-so-many-hours,
+link,1060,Archived,https://web.archive.org/web/20230310213700/https://hbr.org/2013/05/why-men-work-so-many-hours,
+link,1093,Study on gender behaviour and its impact on education outcomes (with a special focus on the performance of boys and young men in education): final report,https://data.europa.eu/doi/10.2766/509505,
+link,1137,145293675,https://api.semanticscholar.org/CorpusID:145293675,
+link,1139,"""Female perpetration of violence in heterosexual intimate relationships: adolescence through adulthood""",https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2663360,
+link,1159,6581063,https://api.semanticscholar.org/CorpusID:6581063,
+link,1166,55469150,https://api.semanticscholar.org/CorpusID:55469150,
+link,1215,man,https://en.wiktionary.org/wiki/man,wiktionary:man
+link,1217,Man,https://en.wikiquote.org/wiki/Special:Search/Man,wikiquote:Special:Search/Man
+link,1219,Man,https://commons.wikimedia.org/wiki/Man,commons:Man
+link,1227,Woman,/wiki/Woman,Woman
+link,1244,Trans man,/wiki/Trans_man,Trans man
+link,1245,Trans woman,/wiki/Trans_woman,Trans woman
+link,1268,Lhamana,/wiki/Lhamana,Lhamana
+link,1320,Aromanticism,/wiki/Aromanticism,Aromanticism
+link,1327,Romantic orientation,/wiki/Romantic_orientation,Romantic orientation
+link,1368,https://en.wikipedia.org/w/index.php?title=Man&oldid=1326000710,https://en.wikipedia.org/w/index.php?title=Man&oldid=1326000710,
+link,1396,Mobile view,//en.wikipedia.org/w/index.php?title=Man&mobileaction=toggle_view_mobile,
+link,1407,,https://en.wikipedia.org/wiki/Man?action=edit,
